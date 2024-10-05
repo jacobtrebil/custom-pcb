@@ -1,0 +1,1 @@
+Updated footprint BT1 (Battery:BatteryHolder_Keystone_1057_1x2032): : OK
